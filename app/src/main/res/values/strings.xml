@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GurlMath</string>
+    <!-- txt en StarScreen -->
+    <string name="calculate_tip">Calcular propina</string>
+    <string name="calculate_desc">Calcular descuento</string>
+    <string name="what_now">¿Qué quieres hacer? </string>
+
+    <!-- DataSource woo -->
+    <string name="ten">10%</string>
+    <string name="fifteen">15%</string>
+    <string name="twenty">20%</string>
+    <string name="twentyfive">25%</string>
+    <string name="other">Otro</string>
+    <string name="percent"> por ciento</string>
+
+    <!-- txt en SelectDescScreen -->
+    <string name="priceNoDesc">Precio sin descuento:</string>
+    <string name="total">Total: $ %s</string>
+    <string name="back">Atrás</string>
+
+
+    <!-- txt en SelectTipScreen -->
+    <string name="priceNoTip">Precio sin propina:</string>
+
+
+    <string name="sample_bill"> Billetes</string>
+
+
+</resources>
